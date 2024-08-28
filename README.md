@@ -1,2 +1,8 @@
-# gifthub
-GiftHub is a customizable platform for creating and sharing wishlists with friends and family. Perfect for birthdays, holidays, or special occasions. Key features include personalized wishlists, gift reservation to avoid duplicates, item status tracking (reserved or purchased), and secure sharing via a private link.
+# GiftHub
+GiftHub is a simple, customizable platform where you can create and share your wishlist with friends and family. Whether it’s for a birthday, holiday, or special occasion, GiftHub makes it easy for your loved ones to know exactly what you want, helping them choose the perfect gift.
+
+## Features:
+- **Personalized Wishlist:** Easily add, edit, and categorize items you wish to receive.
+- **Gift Reservation:** Friends and family can reserve items to avoid duplicate gifts.
+- **Item Status:** See which items are reserved or already purchased.
+- **Secure Sharing:** Share your wishlist via a unique, private link.
